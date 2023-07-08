@@ -1,0 +1,23 @@
+{
+  "name": "graphql-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+   "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Abdul Waqar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0"
+  },
+  "devDependencies": {
+    "@apollo/server": "^4.7.5",
+    "graphql": "^16.7.1",
+    "nodemon": "^2.0.22"
+  }
+}
