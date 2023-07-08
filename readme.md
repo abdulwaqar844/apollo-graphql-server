@@ -9,8 +9,8 @@
 
 
 
-
-## :purple_heart: GraphQL server Using Apollo Server 
+# :wave:
+## :star2: GraphQL server Using Apollo Server  :star2:
 
 ### How to run the project
 1. Clone the project
