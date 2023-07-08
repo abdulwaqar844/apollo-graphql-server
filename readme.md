@@ -1,4 +1,16 @@
-## GraphQL server Using Apollo Server 
+/* Create Readme file using beautifull emogis*/
+# GraphQL Server
+
+# GraphQL server Using Apollo Server    
+
+## 
+
+
+
+
+
+
+## :purple_heart: GraphQL server Using Apollo Server 
 
 ### How to run the project
 1. Clone the project
